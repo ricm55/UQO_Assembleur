@@ -1,5 +1,6 @@
-# UQO: Laboratoire d'Architecture des Ordinateurs II
-Ce repo contient quelques programmes basiques en assembleur développés dans les laboratoires de l'université.
+INF1643 - Programmes en langages assembleur 
+
+Ce repo contient quelques programmes basiques en assembleur développés dans les laboratoires de l'université dans le cadre du cours Architecture des Ordinateurs II.
 microcontrôleur utilisé: HCS12
 
 ## tp1
